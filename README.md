@@ -1,10 +1,10 @@
-# Chapter 01: Video 02 – vscode time
+# Chapter 01: Video 03 – storagestate
 
-This branch contains the code for **Chapter 01, Video 02** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 01, Video 03** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: vscode time
+- Concept: storagestate
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
