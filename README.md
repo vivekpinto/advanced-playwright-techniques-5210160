@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing
+This is the repository for the LinkedIn Learning course `Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
