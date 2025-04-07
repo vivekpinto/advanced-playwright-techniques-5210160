@@ -1,10 +1,10 @@
-# Chapter 01: Video 03 – storagestate
+# Chapter 01: Video 04 – handle cookies
 
-This branch contains the code for **Chapter 01, Video 03** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
+This branch contains the code for **Chapter 01, Video 04** of the LinkedIn Learning course **"Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing."**
 
 ## 🎯 What You'll Learn
 
-- Concept: storagestate
+- Concept: handle cookies
 - Refer to the video for detailed steps and explanation
 
 ## ▶️ How to Run
