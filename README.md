@@ -25,20 +25,38 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+1. Ensure the following are installed:
+   - [Node.js](https://nodejs.org/) (v18 or higher)
+   - [npm](https://www.npmjs.com/)
+   - [Git](https://git-scm.com/)
+
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/LinkedInLearning/advanced-playwright-techniques-5210160.git
+   cd advanced-playwright-techniques-5210160
+   ```
+
+3. Install dependencies and Playwright:
+
+   ```bash
+   npm install
+   npx playwright install
+   ```
+
+4. Run tests:
+
+   ```bash
+   npx playwright test
+   ```
 
 ## Instructor
 
-Instructor name
+**Qambar Raza**  
+Test Automation Expert and Playwright Enthusiast with 20+ years of experience optimising developer workflows and test execution strategies.
 
-Instructor description
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/qambar-raza).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
