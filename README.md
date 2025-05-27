@@ -5,6 +5,8 @@ This is the repository for the LinkedIn Learning course `Advanced Playwright Tec
 
 ## Course Description
 
+This course dives deep into advanced Playwright testing strategies, and is designed to help experienced testers and developers optimize their test suites for speed, stability, and scalability. Learn how to streamline your tests, diagnose and fix bottlenecks, and apply resilient practices that make your testing robust against flakiness. Additionally, explore the power of visual testing using screenshots and snapshots, ensuring UI consistency with minimal resource usage. Finally, instructor Qambar Raza guides you through configuring and running tests on Microsoft Playwright Testing service, enabling you to scale tests effortlessly in the cloud. By the end, you’ll have a high-performing Playwright testing suite ready for modern application needs.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -61,6 +63,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGHxE52KnuJdQ/learning-public-crop_675_1200/B4DZZkgSNWG8AY-/0/1745442907701?e=2147483647&v=beta&t=ms2XvyG0D7-kDyb_SrHN9vj3sYqlE5CRYUbtZ38PXN8
 
