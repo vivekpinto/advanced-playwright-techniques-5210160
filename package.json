@@ -1,0 +1,23 @@
+{
+  "name": "advanced-playwright-techniques-5210160",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course `Advanced Playwright Techniques: Optimizing Speed, Stability, and Cloud Testing`. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekpinto/advanced-playwright-techniques-5210160.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vivekpinto/advanced-playwright-techniques-5210160/issues"
+  },
+  "homepage": "https://github.com/vivekpinto/advanced-playwright-techniques-5210160#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
